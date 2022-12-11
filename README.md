@@ -1,5 +1,5 @@
 # Origins_of_future
-a small project compiling data on the development of future tense. Contains both data and writings belonging the project.
+This is a small project compiling data on the development of future tense. Contains visualizations and writings belonging the project.
 
 Starting with the visualizations:
 
@@ -22,3 +22,5 @@ Written documents:
 1) script/handout: Directionality_in_the_development_of_future_grams_script.pdf
 2) bibliography: OF_bibliography.pdf
 3) geo meta data: OF_geo_metadata.csv
+
+In addition, the poster presented at the ALT14 (2022, Texas) is uploaded in its original form as well (Poster_origins_of_future_ALT_Martiny_v1.pdf).
