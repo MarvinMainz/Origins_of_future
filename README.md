@@ -3,7 +3,7 @@ This is a small project compiling data on the development of future tense. Conta
 
 Starting with the visualizations:
 
-1) OF_map.png roughly maps the 115 languages in the collection, coloured depending on their family which is given accordingly in the legend.
+1) OF_map.png roughly maps the 115 languages in the collection, coloured depending on their family which is given accordingly in the legend. the map was created using QGIS, locations taken from Glottolog 4.7, with approximations if languoids (dialects, subfamilies) without coordinations were encountered.
 
 2) semantic_map_reduced.png is not a real semantic map, but rather a simple diagram synopsis of the development of the primary and modality-based futures described in Bybee et al. 1994 and Kuteva et al. 2019.
 Each arrow as well as the curly bracket represent a semantic development, whereas the labels inbetween represent the states. The length or width of the arrows is not of any significance.
